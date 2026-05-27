@@ -1,0 +1,15 @@
+import time
+
+print("Think any number")
+time.sleep(5)
+print("Think same number for your friend")
+time.sleep(3)
+print("Add 20 from my side")
+time.sleep(5)
+print("give half of the number to god")
+time.sleep(5)
+print("give your friend's number back")
+time.sleep(3)
+print("😂😂 The answer is 10")
+time.sleep(4)
+input("were you shocked?: ")
